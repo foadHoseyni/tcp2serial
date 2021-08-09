@@ -1,5 +1,5 @@
 # tcp2serial
-Convert TCP to Serial in Golang
+Converts TCP to Serial in Golang
 with this "go run tcp2serial 1234 Com1 9600", the program creates an tcp server and start listening to port #1234 and ready to receive messages and sent it to serial port Com1
 with baudrate 9600
 
